@@ -27,6 +27,9 @@
 
 项目视频与原版文件: 链接:https://pan.baidu.com/s/1elQ0DJ-b0hB6W4ihJcK3mQ  密码:ndzt
 
+#### 体验地址:
+前端：http://35.172.134.69:8000/index/
+后端：http://35.172.134.69:8000/
 #### Vue环境搭建
 **国内:**
 1. node.js
